@@ -1,4 +1,4 @@
 demo_git
 ========
 
-a git demo
+a git demo that is going on well
