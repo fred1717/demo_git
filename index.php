@@ -1,2 +1,4 @@
 <?php
-echo 'This is the first script';
+include_once 'index.html';
+
+
